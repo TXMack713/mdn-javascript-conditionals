@@ -72,7 +72,7 @@ if (machineActive === false) {
 // Assessment 3 JavaScript
 
 let response3;
-let score2 = 75;
+let score2 = 95;
 let machineActive2 = true;
 
 // Add your code here
